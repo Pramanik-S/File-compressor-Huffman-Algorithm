@@ -1,4 +1,6 @@
-/*File Compressor Using Huffman Algorithm*/
+/*File Compressor Using Huffman Algorithm
+	Author:: SUMAN PRAMANIK
+	github:: @Pramanik-S*/
 #include<bits/stdc++.h>
 using namespace std;
 //Global Declearation
